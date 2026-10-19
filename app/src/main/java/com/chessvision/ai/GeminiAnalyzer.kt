@@ -6,7 +6,7 @@ class GeminiAnalyzer {
     private val model by lazy {
         GenerativeModel(
             modelName = "gemini-1.5-flash",
-            apiKey = BuildConfig.GEMINI_API_KEY
+            apiKey = BuildConfig.AQ.Ab8RN6JJ6lviMX0Ak0M0FJEfHAwSXnuOdZAaZCwJZUuxR-yZpA
         )
     }
 
