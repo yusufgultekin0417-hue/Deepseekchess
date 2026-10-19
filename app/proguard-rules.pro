@@ -1,0 +1,2 @@
+-keep class com.google.ai.client.generativeai.** { *; }
+-keep class org.tensorflow.lite.** { *; }
